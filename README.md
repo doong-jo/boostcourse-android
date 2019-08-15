@@ -17,7 +17,9 @@
 #### 프로젝트 1. 영화상세 화면
 <img src="project_1.gif" width="300" />
 
-#### 프로젝트 2. 좋아요 / 한줄평
+#### 프로젝트 2. 좋아요 / 한줄평 
+[[부스트코스 에이스 미션1] 프로젝트 2 학습기록✏️](https://doong-jo.github.io/%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BD%94%EC%8A%A4/2019/08/15/Android-%EB%B6%80%EC%8A%A4%ED%8A%B8%EC%BD%94%EC%8A%A4-%EC%97%90%EC%9D%B4%EC%8A%A4-%EB%AF%B8%EC%85%981-%ED%95%99%EC%8A%B5%EA%B8%B0%EB%A1%9D/)
+
 <img src="project_2.gif" width="300" />
 
 #### 프로젝트 3. 한줄평 화면 전환
